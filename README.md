@@ -19,19 +19,18 @@ ________
 
 <img src="./resources/waves.svg" width="100%" height="150">
 
+________
+
+### 📅 StatisticWeekly Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jiveoff&api_domain=waka.jiveoff.fr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
 
 
-<!--
-**Teravla/Teravla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+________
 
-Here are some ideas to get you started:
+### 🤝 Associations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also the president of One Pantheon's team : 
+
+> - [Serveur Discord](https://discord.gg/rnQfXBnDZX)
+> - [Website](https://onepantheon.fr)
