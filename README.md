@@ -1,3 +1,4 @@
+![Metrics 2](./metrics.classic.svg)
 ![Metrics](./metrics.plugin.isocalendar.fullyear.svg)
 
 <p>   <img src="./resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
