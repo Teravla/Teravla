@@ -17,13 +17,12 @@ ________
     <a href="mailto:github.contact@techops.tf"><img src="./resources/mail.svg" alt="Email" style="width: 32px; height: 32px; margin-right: 10px;"/></a>
 </p>
 
-<img src="./resources/waves.svg" width="100%" height="150">
 
 ________
 
 ### 📅 StatisticWeekly Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jiveoff&api_domain=waka.jiveoff.fr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=teravla&api_domain=waka.teravla.fr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
 
 
 ________
@@ -34,3 +33,9 @@ I'm also the president of One Pantheon's team :
 
 > - [Serveur Discord](https://discord.gg/rnQfXBnDZX)
 > - [Website](https://onepantheon.fr)
+
+
+
+
+
+<img src="./resources/waves.svg" width="100%" height="150">
