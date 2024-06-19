@@ -1,4 +1,4 @@
-<p>   <img src="/resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
+<p>   <img src="./resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
 
 <p>   🎓 Software Engineering Student at <a href="https://www.efrei.fr/">Efrei Paris</a>, Villejuif (Fr)</p>
 
@@ -8,7 +8,7 @@
 
 <p>   🎮 Creator of gaming setup | In constant search of performance</p>
 
-<img src="/resources/waves.svg" width="100%" height="150">
+<img src="./resources/waves.svg" width="100%" height="150">
 
 <!--
 **Teravla/Teravla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
