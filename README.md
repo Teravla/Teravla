@@ -1,5 +1,6 @@
 ![Metrics](https://github.com/Teravla/Teravla/raw/main/metrics.classic.svg)
-![Metrics](https://github.com/Teravla/Teravla/raw/main/metrics.plugin.isocalendar.fullyear.svg)
+
+________
 
 <p>   <img src="./resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
 
