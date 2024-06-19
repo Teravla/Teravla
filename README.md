@@ -1,12 +1,15 @@
-<p>   <img src="/resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/antoniopelusi">@antoniopelusi</a></p>
+<p>   <img src="/resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
 
-<p>   🎓 I am a Computer Science graduate at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+<p>   🎓 Software Engineering Student at <a href="https://www.efrei.fr/">Efrei Paris</a>, Villejuif (Fr)</p>
 
-<p>   🌱 Currently enrolled in the Master's Degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+<p>   🕹️ Space video game player and inveterate Minecraft player</p>
 
-<p>   🕹️ Videogames enthusiast</p>
+<p>   👨‍💼 Founder of Techops</p>
 
-<p>   🎸 Guitar player</p>
+<p>   🎮 Creator of gaming setup | In constant search of performance</p>
+
+<img src="/resources/waves.svg" width="100%" height="150">
+
 <!--
 **Teravla/Teravla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
