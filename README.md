@@ -22,7 +22,9 @@ ________
 
 ### 📅 StatisticWeekly Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=teravla&api_domain=waka.teravla.fr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jiveoff&api_domain=waka.jiveoff.fr&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"> -->
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teravla&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 
 ________
