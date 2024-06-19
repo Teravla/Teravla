@@ -1,5 +1,12 @@
-## Hi there 👋
+<p>   <img src="/resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/antoniopelusi">@antoniopelusi</a></p>
 
+<p>   🎓 I am a Computer Science graduate at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+
+<p>   🌱 Currently enrolled in the Master's Degree course in Computer Science at <a href="https://www.unimore.it/">Unimore</a>, Modena (IT)</p>
+
+<p>   🕹️ Videogames enthusiast</p>
+
+<p>   🎸 Guitar player</p>
 <!--
 **Teravla/Teravla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
