@@ -14,7 +14,7 @@ ________
 
 <p align="right">
     <a href="https://www.techops.tf"><img src="./resources/website.svg" alt="Website" style="width: 32px; height: 32px; margin-right: 5px;"/></a>
-    <a href="mailto:github.contact@techops.tf"><img src="./resources/mail.svg" alt="Email" style="width: 32px; height: 32px; margin-right: 10px;"/></a>
+    <a href="mailto:contact@techops.tf"><img src="./resources/mail.svg" alt="Email" style="width: 32px; height: 32px; margin-right: 10px;"/></a>
 </p>
 
 
