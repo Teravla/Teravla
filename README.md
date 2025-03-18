@@ -1,5 +1,7 @@
 ![Metrics](https://github.com/Teravla/Teravla/raw/main/metrics.classic.svg)
 
+![SNAKE](https://github.com/Teravla/Teravla/raw/output/github-contribution-grid-snake-dark.svg)
+
 ________
 
 <p>   <img src="./resources/hi.gif" width="20"> Hi, I am  <a href="https://github.com/Teravla">@Teravla</a></p>
