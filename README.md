@@ -46,7 +46,7 @@
 ![Teravla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teravla&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teravla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teravla&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teravla&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact) -->
 
 ---
 
@@ -61,10 +61,10 @@ I'm also the president of One Pantheon:
 
 ## 📫 Contact Me
 
-<p align="left">
-  <a href="https://www.techops.tf"><img src="./resources/website.svg" alt="Website" style="width: 32px; height: 32px; margin-right: 10px;"/></a>
-  <a href="mailto:contact@techops.tf"><img src="./resources/mail.svg" alt="Email" style="width: 32px; height: 32px; margin-right: 10px;"/></a>
-</p>
+For professional inquiries, collaborations, or just to connect:
+
+- 🌐 Website: [me.techops.tf](https://me.techops.tf)
+- 📧 Email: [teravla.pro@gmail.com](mailto:teravla.pro@gmail.com)
 
 ---
 
