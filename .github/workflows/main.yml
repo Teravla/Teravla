@@ -5,6 +5,10 @@ on:
   workflow_dispatch:
   push: { branches: ["main"] }
 
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: github-runner-scale-set-ma-petite-config
