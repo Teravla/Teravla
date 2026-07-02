@@ -21,7 +21,7 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: github-runner-scale-set-teravla
+    runs-on: github-runner-scale-set-ma-petite-config
     timeout-minutes: 5
 
     steps:
